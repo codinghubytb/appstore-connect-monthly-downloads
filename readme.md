@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python main.py
+python example.py
 ```
 
 Returns JSON array with monthly download data:
