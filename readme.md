@@ -1,4 +1,3 @@
-```markdown
 # App Store Connect Monthly Downloads
 
 Fetch monthly download statistics from App Store Connect API.
@@ -47,8 +46,3 @@ Returns JSON array with monthly download data:
 - Filters by specific app SKU
 - Separates new downloads from updates
 - Returns data in chronological order
-
-## License
-
-MIT
-```
